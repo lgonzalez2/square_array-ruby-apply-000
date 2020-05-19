@@ -6,7 +6,7 @@ def square_array(numbers)
     num ** 2 
     num
   end
-  
+  numbers
 end
 
 
