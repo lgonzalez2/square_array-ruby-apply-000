@@ -1,4 +1,4 @@
-numbers = [1, 2, 3]
+numbers = [1, 4, 9]
 
 def square_array(numbers)
   
